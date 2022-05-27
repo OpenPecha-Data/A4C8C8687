@@ -1,0 +1,33 @@
+segment_sources:
+  IB47E353B:
+    type: origin_type
+    relation: translation
+    language: sa
+  IC924001B:
+    type: origin_type
+    relation: translation
+    language: zh
+  IB94BBA96:
+    type: origin_type
+    relation: translation
+    language: bo
+  ID9CC463D:
+    type: origin_type
+    relation: translation
+    language: bo
+  ID847AE44:
+    type: origin_type
+    relation: translation
+    language: fr
+  IF0FFF817:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  9c690cf189d44d10b7ef70b9e5d90c7f:
+    IB47E353B: 7ba6f6a353934694a44c0f356365bff8
+    IC924001B: 20febb6be0e942e29902bbb6875d5029
+    IB94BBA96: 9e71509d87f74311868015f2d8b50d5e
+    ID9CC463D: 68bf4aa7cbaf473bab368c58301f58b6
+    ID847AE44: None
+    IF0FFF817: None
